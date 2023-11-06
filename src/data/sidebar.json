@@ -1,0 +1,355 @@
+[
+    {
+        "title": "Home",
+        "path": "/"
+    },
+    {
+        "title": "About",
+        "childrens": [
+            {
+                "title": "Message",
+                "childrens": [
+                    {
+                        "title": "Chairman",
+                        "path": "/about/message/chairman"
+                    },
+                    {
+                        "title": "Director",
+                        "path": "/about/message/director"
+                    },
+                    {
+                        "title": "Vice Chancellor",
+                        "path": "/vc message"
+                    },
+                    {
+                        "title": "Principal",
+                        "path": "/principal message"
+                    },
+                    {
+                        "title": "Headmaster",
+                        "path": "/headmaster message"
+                    }
+                ]
+            },
+            {
+                "title": "At a Glance",
+                "path": "/about/at-a-glance"
+            },
+            {
+                "title": "Brief History",
+                "path": "/history"
+            },
+            {
+                "title": "Objectives",
+                "path": "/objectives"
+            },
+            {
+                "title": "Vision",
+                "path": "/vision"
+            },
+            {
+                "title": "Mission",
+                "path": "/Mission"
+            },
+            {
+                "title": "Organogram",
+                "path": "/organogram"
+            },
+            {
+                "title": "Future Plan",
+                "path": "/future plan"
+            },
+            {
+                "title": "Why Study Here",
+                "path": "/why-study-here"
+            },
+            {
+                "title": "Master Plan",
+                "path": "/master-plan"
+            },
+            {
+                "title": "Future Perspective",
+                "path": "/future-perspective"
+            },
+            {
+                "title": "Achievments",
+                "path": "/achievments"
+            },
+            {
+                "title": "Social Activities",
+                "path": "social-activities"
+            },
+            {
+                "title": "Infrstructure",
+                "childrens": [
+                    {
+                        "title": "Campus",
+                        "path": "campus"
+                    },
+                    {
+                        "title": "Compund",
+                        "path": "compound"
+                    },
+                    {
+                        "title": "Ongoing Project",
+                        "path": "ongoing-project"
+                    },
+                    {
+                        "title": "Upcoming Project",
+                        "path": "upcoming-project"
+                    }
+                ]
+            },
+            {
+                "title": "FAQ",
+                "path": ""
+            }
+        ]
+    },
+    {
+        "title": "Adminstration",
+        "childrens": [
+            {
+                "title": "Governing Body",
+                "path": "/governing-body"
+            },
+            {
+                "title": "Managing Committee",
+                "path": "/managing-committee"
+            },
+            {
+                "title": "Board of Trustees",
+                "path": "/board-of-trustees"
+            },
+            {
+                "title": "Founder & Donors",
+                "path": "/founder-&-donors"
+            },
+            {
+                "title": "Wellfare Trust",
+                "path": "/wellfare-trust"
+            },
+            {
+                "title": "Founder & Donors",
+                "path": "/founder-&-donors"
+            }
+        ]
+    },
+    {
+        "title": "Academics",
+        "childrens": [
+            {
+                "title": "Academic Calendar",
+                "path": "/academic-calender"
+            },
+            {
+                "title": "Class Routine",
+                "path": ""
+            },
+            {
+                "title": "Tuition Fees",
+                "path": "/"
+            },
+            {
+                "title": "Syllabus",
+                "path": ""
+            },
+            {
+                "title": "Book List",
+                "path": "/"
+            },
+            {
+                "title": "Exam Schedule",
+                "path": "/exam-schedule"
+            },
+            {
+                "title": "List of Holydays",
+                "path": "/"
+            },
+            {
+                "title": "Digital Content",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Admission",
+        "childrens": [
+            {
+                "title": "Cercular",
+                "path": "/circular"
+            },
+            {
+                "title": "Apply Now",
+                "path": "/apply-now"
+            },
+            {
+                "title": "Transfer Procedure",
+                "path": "/"
+            },
+            {
+                "title": "Scolarship",
+                "path": "/scholarship"
+            },
+            {
+                "title": "Prospectus",
+                "path": "/"
+            },
+            {
+                "title": "Admission Form",
+                "path": "/"
+            },
+            {
+                "title": "Admission Test",
+                "path": "/"
+            },
+            {
+                "title": "Admission Result",
+                "path": "/"
+            },
+            {
+                "title": "Waiting List",
+                "path": "/"
+            },
+            {
+                "title": "Admit Card",
+                "path": "/"
+            },
+            {
+                "title": "Eligibility",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Clubs",
+        "childrens": [
+            {
+                "title": "Art",
+                "path": "/"
+            },
+            {
+                "title": "BNCC",
+                "path": "/"
+            },
+            {
+                "title": "Bussiness",
+                "path": "/"
+            },
+            {
+                "title": "Cultural",
+                "path": "/"
+            },
+            {
+                "title": "Debate",
+                "path": "/"
+            },
+            {
+                "title": "English",
+                "path": "/"
+            },
+            {
+                "title": "Gils Guide",
+                "path": "/"
+            },
+            {
+                "title": "Language",
+                "path": "/"
+            },
+            {
+                "title": "Literature",
+                "path": "/"
+            },
+            {
+                "title": "Mathematics",
+                "path": "/"
+            },
+            {
+                "title": "Mental Health",
+                "path": "/"
+            },
+            {
+                "title": "Maountaineering",
+                "path": "/"
+            },
+            {
+                "title": "Photography",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Facilities",
+        "childrens": [
+            {
+                "title": "First Aid",
+                "path": "campus"
+            },
+            {
+                "title": "Library",
+                "path": "campus"
+            },
+            {
+                "title": "Book Stall",
+                "path": "campus"
+            },
+            {
+                "title": "Canteen",
+                "path": "campus"
+            },
+            {
+                "title": "Cafeteria",
+                "path": "campus"
+            },
+            {
+                "title": "Accomodation",
+                "path": "campus"
+            }
+        ]
+    },
+    {
+        "title": "Events",
+        "childrens": [
+            {
+                "title": "Cultural",
+                "path": "/"
+            },
+            {
+                "title": "Sports",
+                "path": "/"
+            },
+            {
+                "title": "Itra Competition",
+                "path": "/"
+            },
+            {
+                "title": "Inter Competition",
+                "path": "/"
+            },
+            {
+                "title": "Study Tour",
+                "path": "/"
+            },
+            {
+                "title": "Annual Picnic",
+                "path": "/"
+            },
+            {
+                "title": "Freshers",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Notice Board",
+        "path": "/"
+    },
+    {
+        "title": "Account",
+        "path": "/"
+    },
+    {
+        "title": "Donation",
+        "path": "/"
+    }
+]
